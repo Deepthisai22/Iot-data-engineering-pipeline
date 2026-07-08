@@ -10,7 +10,9 @@ __pycache__/
 *.py[cod]
 
 # Logs
-logs/*.log
+logs/
+*.log
+*.json
 
 # VS Code / Cursor
 .vscode/
