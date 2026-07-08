@@ -1,0 +1,42 @@
+site_id,customer_id,customer_name,industry,city,site_type,site_name
+SITE001,CUST001,MedCare Health Network,Healthcare,Warangal,Specialty Hospital,Warangal Specialty Hospital
+SITE002,CUST001,MedCare Health Network,Healthcare,Hyderabad,Medical Center,Hyderabad Medical Center
+SITE003,CUST001,MedCare Health Network,Healthcare,Visakhapatnam,Specialty Hospital,Visakhapatnam Specialty Hospital
+SITE004,CUST001,MedCare Health Network,Healthcare,Visakhapatnam,Central Hospital,Visakhapatnam Central Hospital
+SITE005,CUST001,MedCare Health Network,Healthcare,Vijayawada,Multi-Speciality Hospital,Vijayawada Multi-Speciality Hospital
+SITE006,CUST001,MedCare Health Network,Healthcare,Warangal,Children's Hospital,Warangal Children's Hospital
+SITE007,CUST001,MedCare Health Network,Healthcare,Warangal,Medical Center,Warangal Medical Center
+SITE008,CUST001,MedCare Health Network,Healthcare,Warangal,Central Hospital,Warangal Central Hospital
+SITE009,CUST001,MedCare Health Network,Healthcare,Kurnool,Specialty Hospital,Kurnool Specialty Hospital
+SITE010,CUST001,MedCare Health Network,Healthcare,Rajahmundry,Children's Hospital,Rajahmundry Children's Hospital
+SITE011,CUST002,UrbanSquare Retail Group,Retail,Chennai,Lifestyle Center,Chennai Lifestyle Center
+SITE012,CUST002,UrbanSquare Retail Group,Retail,Coimbatore,Lifestyle Center,Coimbatore Lifestyle Center
+SITE013,CUST002,UrbanSquare Retail Group,Retail,Kochi,Lifestyle Center,Kochi Lifestyle Center
+SITE014,CUST002,UrbanSquare Retail Group,Retail,Chennai,City Mall,Chennai City Mall
+SITE015,CUST002,UrbanSquare Retail Group,Retail,Hyderabad,Shopping Plaza,Hyderabad Shopping Plaza
+SITE016,CUST002,UrbanSquare Retail Group,Retail,Pune,Retail Hub,Pune Retail Hub
+SITE017,CUST002,UrbanSquare Retail Group,Retail,Kochi,Shopping Plaza,Kochi Shopping Plaza
+SITE018,CUST002,UrbanSquare Retail Group,Retail,Hyderabad,Lifestyle Center,Hyderabad Lifestyle Center
+SITE019,CUST003,NovaTech Business Parks,Commercial Offices,Hyderabad,Innovation Center,Hyderabad Innovation Center
+SITE020,CUST003,NovaTech Business Parks,Commercial Offices,Chennai,Tech Park,Chennai Tech Park
+SITE021,CUST003,NovaTech Business Parks,Commercial Offices,Pune,Tech Park,Pune Tech Park
+SITE022,CUST003,NovaTech Business Parks,Commercial Offices,Chennai,Corporate Campus,Chennai Corporate Campus
+SITE023,CUST004,AquaPure Manufacturing,Manufacturing,Surat,Production Facility,Surat Production Facility
+SITE024,CUST004,AquaPure Manufacturing,Manufacturing,Chennai,Industrial Unit,Chennai Industrial Unit
+SITE025,CUST004,AquaPure Manufacturing,Manufacturing,Hyderabad,Production Facility,Hyderabad Production Facility
+SITE026,CUST004,AquaPure Manufacturing,Manufacturing,Visakhapatnam,Processing Plant,Visakhapatnam Processing Plant
+SITE027,CUST004,AquaPure Manufacturing,Manufacturing,Surat,Processing Plant,Surat Processing Plant
+SITE028,CUST004,AquaPure Manufacturing,Manufacturing,Surat,Industrial Unit,Surat Industrial Unit
+SITE029,CUST004,AquaPure Manufacturing,Manufacturing,Pune,Manufacturing Plant,Pune Manufacturing Plant
+SITE030,CUST005,SkyStay Hotels & Resorts,Hospitality,Kochi,Business Hotel,Kochi Business Hotel
+SITE031,CUST005,SkyStay Hotels & Resorts,Hospitality,Mysuru,Luxury Suites,Mysuru Luxury Suites
+SITE032,CUST005,SkyStay Hotels & Resorts,Hospitality,Udaipur,Resort,Udaipur Resort
+SITE033,CUST005,SkyStay Hotels & Resorts,Hospitality,Ooty,Luxury Suites,Ooty Luxury Suites
+SITE034,CUST005,SkyStay Hotels & Resorts,Hospitality,Udaipur,Grand Hotel,Udaipur Grand Hotel
+SITE035,CUST005,SkyStay Hotels & Resorts,Hospitality,Jaipur,Business Hotel,Jaipur Business Hotel
+SITE036,CUST005,SkyStay Hotels & Resorts,Hospitality,Hyderabad,Business Hotel,Hyderabad Business Hotel
+SITE037,CUST005,SkyStay Hotels & Resorts,Hospitality,Hyderabad,Grand Hotel,Hyderabad Grand Hotel
+SITE038,CUST005,SkyStay Hotels & Resorts,Hospitality,Mysuru,Grand Hotel,Mysuru Grand Hotel
+SITE039,CUST005,SkyStay Hotels & Resorts,Hospitality,Udaipur,Business Hotel,Udaipur Business Hotel
+SITE040,CUST005,SkyStay Hotels & Resorts,Hospitality,Goa,Luxury Suites,Goa Luxury Suites
+SITE041,CUST005,SkyStay Hotels & Resorts,Hospitality,Goa,Resort,Goa Resort
